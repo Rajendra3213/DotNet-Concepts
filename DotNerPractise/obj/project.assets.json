@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/DotNerPractise.csproj",
+      "projectUniqueName": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNet-Concepts/DotNerPractise/DotNerPractise.csproj",
       "projectName": "DotNerPractise",
-      "projectPath": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/DotNerPractise.csproj",
+      "projectPath": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNet-Concepts/DotNerPractise/DotNerPractise.csproj",
       "packagesPath": "/Users/rajendraacharya/.nuget/packages/",
-      "outputPath": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/",
+      "outputPath": "/Users/rajendraacharya/Desktop/DotNerPractise/DotNet-Concepts/DotNerPractise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rajendraacharya/.nuget/NuGet/NuGet.Config"
