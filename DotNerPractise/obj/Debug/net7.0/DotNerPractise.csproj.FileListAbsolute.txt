@@ -1,0 +1,15 @@
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/bin/Debug/net7.0/DotNerPractise
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/bin/Debug/net7.0/DotNerPractise.deps.json
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/bin/Debug/net7.0/DotNerPractise.runtimeconfig.json
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/bin/Debug/net7.0/DotNerPractise.dll
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/bin/Debug/net7.0/DotNerPractise.pdb
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.csproj.AssemblyReference.cache
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.AssemblyInfoInputs.cache
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.AssemblyInfo.cs
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.csproj.CoreCompileInputs.cache
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.dll
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/refint/DotNerPractise.dll
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.pdb
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/DotNerPractise.genruntimeconfig.cache
+/Users/rajendraacharya/Desktop/DotNerPractise/DotNerPractise/obj/Debug/net7.0/ref/DotNerPractise.dll
